@@ -1,1 +1,1 @@
-from gym_contextbandits.envs.contextbandits_env import ContextBanditsEnv
+from gym_contextbandits.envs.pinch_hitter import PinchHitterFixedEnv
